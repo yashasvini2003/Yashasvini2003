@@ -65,11 +65,11 @@
 
 <div style="font-size:1.2em; line-height: 1.8;">
   <a href="https://yashasvini-bhanuraj.netlify.app/" style="text-decoration: none; font-weight: bold;">
-    <img src="https://img.shields.io/badge/Website-FF6347?style=for-the-badge&logo=google-chrome" alt="Website" />
-  </a> 
-  <a href="mailto:yashasvinibhanuraj29@gmail.com" style="text-decoration: none; color: #D14836; font-weight: bold;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Gmail" />
-  </a> 
+    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=google-chrome" alt="Website" />
+  </a>
+  <a href="mailto:yashasvinibhanuraj29@gmail.com" style="text-decoration: none; font-weight: bold;">
+    <img src="https://img.shields.io/badge/Email-DAA520?style=for-the-badge&logo=gmail" alt="Gmail" />
+  </a>
   <a href="https://github.com/yashasvini2003" style="text-decoration: none; color: #111010; font-weight: bold;">
     <img src="https://img.shields.io/badge/GitHub-111010?style=for-the-badge&logo=github" alt="GitHub" />
   </a> 
@@ -77,6 +77,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </div>
-
-
-
