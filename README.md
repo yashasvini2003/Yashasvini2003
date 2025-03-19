@@ -67,5 +67,5 @@
   <a href="https://yashasvini-bhanuraj.netlify.app/" style="text-decoration: none; color: #3498DB; font-weight: bold;">Website</a> | 
   <a href="mailto:yashasvinibhanuraj29@gmail.com" style="text-decoration: none; color: #D14836; font-weight: bold;">Gmail</a> | 
   <a href="https://github.com/yashasvini2003" style="text-decoration: none; color: #111010; font-weight: bold;">GitHub</a> | 
-  <a href="https://www.linkedin.com/in/yashasvini-bhanuraj/" style="text-decoration: none; color: #0077B5; font-weight: bold;">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/yashasvini-bhanuraj-0a7a13202/" style="text-decoration: none; color: #0077B5; font-weight: bold;">LinkedIn</a>
 </div>
