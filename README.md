@@ -55,31 +55,29 @@
   <li>📈 Developer Experience (DX) and Open Source Advocacy</li>
 </ul>
 
-<h2 style="font-size:1.8em; color: #16A085;">📊 GitHub Insights</h2>
-
+<h2 style="font-size:1.8em; color: #16A085;">📊 GitHub Stats</h2>
 <div align="center">
-
-  <!-- Top Languages (Multiple Languages) -->
-  <a href="https://github.com/yashasvini2003">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasvini2003&langs_count=10&layout=compact&theme=radical&hide_progress=true" alt="Top Languages" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasvini2003" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasvini2003&layout=compact&theme=radical" alt="Top Languages" />
   </a>
-  <br><br>
-
-  <!-- GitHub Stats -->
-  <a href="https://github.com/yashasvini2003">
-    <img src="https://github-readme-stats.vercel.app/api?username=yashasvini2003&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <a href="https://github-readme-stats.vercel.app/api?username=yashasvini2003&show_icons=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api?username=yashasvini2003&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
-  <br><br>
+</div>
 
-  <!-- GitHub Streaks -->
-  <a href="https://github.com/yashasvini2003">
-    <img src="https://streak-stats.demolab.com?user=yashasvini2003&theme=radical&hide_border=false" alt="GitHub Streaks" />
+<h2 style="font-size:1.8em; color: #16A085;">🌐 Connect with Me</h2>
+<div style="font-size:1.2em; line-height: 1.8;">
+  <a href="https://yashasvini-bhanuraj.netlify.app/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=google-chrome" alt="Website" />
   </a>
-  <br><br>
-
-  <!-- GitHub Activity Graph (via GitHub Readme Graph) -->
-  <a href="https://github.com/yashasvini2003">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashasvini2003&theme=radical" alt="GitHub Contribution Graph" />
+  <a href="mailto:yashasvinibhanuraj29@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-DAA520?style=for-the-badge&logo=gmail" alt="Gmail" />
   </a>
-
+  <a href="https://github.com/yashasvini2003" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-111010?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/yashasvini-bhanuraj-0a7a13202/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 </div>
