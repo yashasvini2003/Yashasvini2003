@@ -1,79 +1,83 @@
-<h1 style="font-size:2.5em; color: #2C3E50;">Hi, I'm Yashasvini Bhanuraj 👋</h1>
+<h1 style="font-size:2.8em; color: #2C3E50; font-weight:700;">Hi, I'm Yashasvini Bhanuraj 👋</h1>
 
-<p style="font-size:1.2em; color: #34495E;">3rd Year Student at Seneca Polytechnic, pursuing a degree Honours Bachelor of Technology – Software Development(BSD)</p>
+<p style="font-size:1.3em; color: #34495E; font-weight: 500;">
+  Software Developer | B.Tech (Hons) - Software Development, Seneca Polytechnic
+</p>
 
 <hr>
 
-<h2 style="font-size:1.8em; color: #16A085;">🧐 About Me</h2>
-<ul>
-  <li>💻 I’m a problem-solver at heart, always eager to explore creative coding solutions.</li>
-  <li>📚 Currently, I’m deepening my knowledge of Data Structures & Algorithms, building a strong foundation for tackling complex challenges.</li>
-  <li>🌱 Continuously learning and experimenting with new technologies, and excited to grow my skill set in the tech world.</li>
-  <li>🌟 Passionate about open-source contributions, particularly in JavaScript, Python, and C, and always on the lookout for collaborative projects.</li>
-  <li>🧩 I thrive in environments that challenge me to think critically and adapt quickly, especially when it comes to debugging and troubleshooting.</li>
-  <li>⚡ Fun fact: Debugging feels like solving a mystery; every bug uncovers a new piece of the puzzle.</li>
-  <li>🚀 I’m driven by the thrill of learning and the satisfaction of seeing my code come to life, whether it's building a new feature or optimizing an existing one.</li>
-  <li>🔄 Always open to feedback and collaboration; I believe that working with others leads to growth and new perspectives.</li>
-  <li>🎯 Focused on improving my coding skills, but also passionate about UI/UX design and how good interfaces can shape user experiences.</li>
-  <li>💬 I enjoy discussing tech, exchanging ideas, and exploring new tools and frameworks to stay ahead of the curve.</li>
-  <li>🤝 A strong believer in teamwork and collaboration; I find that great ideas emerge when diverse minds come together to solve problems.</li>
+<h2 style="font-size:1.8em; color: #16A085;">🧠 About Me</h2>
+<ul style="font-size:1.1em; line-height: 1.8; color: #2C3E50;">
+  <li>🚀 Passionate full-stack developer with a strong foundation in scalable web technologies and cloud architecture.</li>
+  <li>🧩 Adept at solving complex algorithmic challenges and building efficient, clean, and maintainable codebases.</li>
+  <li>💡 Driven by curiosity and innovation — always exploring new technologies and best practices in software engineering.</li>
+  <li>🌍 Active contributor to open-source projects with a focus on JavaScript, Python, and low-level systems programming in C/C++.</li>
+  <li>🛠️ Proficient in agile development methodologies, CI/CD pipelines, RESTful API design, and DevOps workflows.</li>
+  <li>🧪 Deep interest in system design, backend optimization, distributed systems, and developer tooling.</li>
+  <li>🤝 Collaborative by nature; thrive in cross-functional teams and value clear communication, mentorship, and continuous learning.</li>
+  <li>🎯 Currently focused on building high-performance applications and contributing to impactful, user-centric software projects.</li>
 </ul>
 
-<h2 style="font-size:1.8em; color: #16A085;">👨‍💻 Tech Stack</h2>
-
-<p style="font-size:1.1em; line-height: 1.8;">
-  <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-ES6-yellow" alt="JavaScript" /></a>
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-16.8-blue" alt="React" /></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-14.17-green" alt="Node.js" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-1.60-purple" alt="VS Code" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-5-orange" alt="HTML" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-3-blue" alt="CSS" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-latest-green" alt="MongoDB" /></a>
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-8.0-blue" alt="MySQL" /></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-latest-orange" alt="Git" /></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-99-blue" alt="C" /></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.9-blue" alt="Python" /></a>
-  <a href="https://en.cppreference.com/w/cpp/17"><img src="https://img.shields.io/badge/C++-17-green" alt="C++" /></a>
-  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-EC2-blue" alt="AWS" /></a>
-  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-latest-blue" alt="Express.js" /></a>
-  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-latest-orange" alt="Figma" /></a>
-  <a href="https://www.figma.com/figjam/"><img src="https://img.shields.io/badge/FigJam-latest-blue" alt="FigJam" /></a>
-  <a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/Cloudflare-latest-green" alt="Cloudflare" /></a>
-  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-latest-black" alt="Vercel" /></a>
-  <a href="https://www.heroku.com/"><img src="https://img.shields.io/badge/Deployment-Heroku-orange" alt="Heroku" /></a>
+<h2 style="font-size:1.8em; color: #16A085;">⚙️ Tech Stack</h2>
+<p style="font-size:1.1em; line-height: 2;">
+  <strong>Languages:</strong> JavaScript (ES6+), TypeScript, Python, C, C++, Bash, SQL<br>
+  <strong>Frontend:</strong> React.js, Next.js, HTML5, CSS3, TailwindCSS, Sass<br>
+  <strong>Backend:</strong> Node.js, Express.js, MongoDB, PostgreSQL, MySQL<br>
+  <strong>DevOps & Cloud:</strong> Docker, GitHub Actions, Heroku, Vercel, AWS (EC2, S3), Cloudflare<br>
+  <strong>Tools & Platforms:</strong> Git, VS Code, Postman, Figma, FigJam, Jira, Notion<br>
+  <strong>Testing & Quality:</strong> Jest, Mocha, ESLint, Prettier<br>
+  <strong>Deployment & CI/CD:</strong> Netlify, Vercel, GitHub Pages, Jenkins (basic), Render
 </p>
 
-<h2 style="font-size:1.8em; color: #16A085;">🏖️ Hobbies</h2>
+<h2 style="font-size:1.8em; color: #16A085;">📂 Projects & Contributions</h2>
+<ul style="font-size:1.1em; line-height: 1.8; color: #2C3E50;">
+  <li>🔧 <strong>Full-Stack Web Applications</strong>: Developed feature-rich web platforms using MERN stack with REST APIs and responsive UI.</li>
+  <li>🛠 <strong>CLI Tools</strong>: Built custom automation tools and command-line applications for developer productivity in Python and Bash.</li>
+  <li>📦 <strong>Open Source Contributor</strong>: Contributed to repositories involving UI components, bug fixes, and documentation enhancements.</li>
+  <li>📈 <strong>Performance Tuning</strong>: Improved page load times and API response by implementing caching strategies and database indexing.</li>
+  <li>🌐 <strong>Deployment</strong>: Experience in automated deployments and version control workflows using Git, GitHub, and CI/CD pipelines.</li>
+</ul>
 
-<ul style="font-size:1.1em; line-height: 1.8;">
-  <li>🏊‍♂️ Swimming</li>
-  <li>💃 Dancing</li>
-  <li>📖 Reading</li>
-  <li>🎶 Listening Music</li>
-  <li>🧑‍💻 Coding</li>
+<h2 style="font-size:1.8em; color: #16A085;">🏆 Highlights</h2>
+<ul style="font-size:1.1em; line-height: 1.8; color: #2C3E50;">
+  <li>🎖️ Dean's List - Academic Excellence in Software Development</li>
+  <li>💻 1000+ problems solved across platforms like LeetCode, HackerRank, and Codeforces</li>
+  <li>🏗️ Built scalable backend for a task management app used by 100+ users/month</li>
+  <li>📚 Presented workshops on Git, API integration, and debugging techniques at college developer clubs</li>
+</ul>
+
+<h2 style="font-size:1.8em; color: #16A085;">💬 Interests</h2>
+<ul style="font-size:1.1em; line-height: 1.8; color: #2C3E50;">
+  <li>🧠 System Design & Architecture</li>
+  <li>🧪 Dev Tooling & Productivity Engineering</li>
+  <li>🎨 UX/UI Design Systems</li>
+  <li>🌐 Web Performance & Accessibility</li>
+  <li>📈 Developer Experience (DX) and Open Source Advocacy</li>
 </ul>
 
 <h2 style="font-size:1.8em; color: #16A085;">📊 GitHub Stats</h2>
-
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasvini2003" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasvini2003&layout=compact&theme=radical" alt="Top Languages" />
   </a>
+  <br>
+  <a href="https://github-readme-stats.vercel.app/api?username=yashasvini2003&show_icons=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api?username=yashasvini2003&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
 </div>
 
-<h2 style="font-size:1.8em; color: #16A085;">📬 Connect with Me</h2>
-
+<h2 style="font-size:1.8em; color: #16A085;">🌐 Connect with Me</h2>
 <div style="font-size:1.2em; line-height: 1.8;">
-  <a href="https://yashasvini-bhanuraj.netlify.app/" style="text-decoration: none; font-weight: bold;">
-    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=google-chrome" alt="Website" />
+  <a href="https://yashasvini-bhanuraj.netlify.app/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=google-chrome" alt="Website" />
   </a>
-  <a href="mailto:yashasvinibhanuraj29@gmail.com" style="text-decoration: none; font-weight: bold;">
+  <a href="mailto:yashasvinibhanuraj29@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-DAA520?style=for-the-badge&logo=gmail" alt="Gmail" />
   </a>
-  <a href="https://github.com/yashasvini2003" style="text-decoration: none; color: #111010; font-weight: bold;">
+  <a href="https://github.com/yashasvini2003" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-111010?style=for-the-badge&logo=github" alt="GitHub" />
-  </a> 
-  <a href="https://www.linkedin.com/in/yashasvini-bhanuraj-0a7a13202/" style="text-decoration: none; color: #0077B5; font-weight: bold;">
+  </a>
+  <a href="https://www.linkedin.com/in/yashasvini-bhanuraj-0a7a13202/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </div>
