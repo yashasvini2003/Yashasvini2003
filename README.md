@@ -1,6 +1,6 @@
 <!-- Yashasvini Bhanuraj | yashasvini2003 -->
 
-<h1 align="center">✨ Hi, I'm Yashasvini Bhanuraj ✨</h1>
+<h1 align="center">Hi, I'm Yashasvini Bhanuraj ✨</h1>
 <h2 align="center"><em>B.Tech (Hons) – Software Development</em></h2>
 <h3 align="center">A passionate developer striving to make technology more human, meaningful, and accessible.</h3>
 
