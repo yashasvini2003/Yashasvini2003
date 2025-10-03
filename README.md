@@ -1,83 +1,117 @@
-<h1 style="font-size:2.8em; color: #2C3E50; font-weight:700;">Hi, I'm Yashasvini Bhanuraj 👋</h1>
+<!-- Yashasvini Bhanuraj | yashasvini2003 -->
 
-<p style="font-size:1.3em; color: #34495E; font-weight: 500;">
-  Software Developer | B.Tech (Hons) - Software Development, Seneca Polytechnic
+<h1 align="center">✨ Hi, I'm Yashasvini Bhanuraj ✨</h1>
+<h2 align="center"><em>B.Tech (Hons) – Software Development</em></h2>
+<h3 align="center">A passionate developer striving to make technology more human, meaningful, and accessible.</h3>
+
+---
+
+## 🌻 My Journey
+
+From the first lines of code that sparked a sense of wonder, I’ve pursued software not just as a craft, but as a calling—to create tools, experiences, and connections that make lives better.
+
+I believe in code that is **clean**, but also **kind**. In products that are not just scalable, but **thoughtful**.  
+Every bug fixed is a lesson. Every feature shipped is an opportunity to touch someone’s world.
+
+- 💡 **Curiosity is my superpower:** I never stop exploring—from backend algorithms to frontend polish, from the depths of system design to the heights of user delight.
+- 🤝 **Collaboration is my joy:** The best software is built together. I cherish every brainstorm, every code review, every shared “aha!” moment.
+- 🌱 **Growth is my mission:** I learn relentlessly—so I can teach, mentor, and help others rise with me.
+- 💬 **Empathy is my secret ingredient:** Technology is ultimately about people, and I strive to always remember that.
+- 🌏 **Open source is my home:** I contribute, not just code, but care—to projects and communities that matter.
+
+---
+
+## 🛠️ My Tech Stack: Tools for Impact
+
+**Languages:**  
+JavaScript (ES6+), TypeScript, Python, Kotlin, C, C++, Bash, SQL
+
+**Frontend:**  
+React.js, Next.js, HTML5, CSS3, TailwindCSS, Sass, Microsoft Edge
+
+**Backend & Databases:**  
+Node.js, Express.js, MongoDB, PostgreSQL, MySQL, Firebase
+
+**Cloud & DevOps:**  
+Docker, GitHub Actions, Heroku, Vercel, AWS (EC2, S3), Cloudflare, Digital Ocean
+
+**Productivity:**  
+Git, VS Code, Postman, Figma, FigJam, Jira, Notion
+
+**Testing & Quality:**  
+Jest, Mocha, ESLint, Prettier
+
+**Deployment & CI/CD:**  
+Netlify, Vercel, GitHub Pages, Jenkins (basic), Render
+
+---
+
+## 🚀 Projects & Purpose
+
+- **Full-Stack Web Applications:** Crafted platforms that empower users and solve real-world problems with beauty and speed.
+- **CLI Tools:** Built command-line magic that makes developers’ lives easier—because our tools should serve us, not the other way around.
+- **Open Source Contributions:** Gave back to the community, one pull request, fix, and thoughtful doc at a time.
+- **Performance Tuning:** Tuned systems to make technology invisible—fast, reliable, and there when you need it.
+- **CI/CD and Automation:** Automated the boring, so teams can focus on what matters: creating.
+
+---
+
+## 🏆 Highlights & Heartbeats
+
+- 🥇 **Dean's List:** Honored for academic excellence, but prouder still of the friendships and collaborations forged.
+- 💻 **1000+ coding puzzles** solved—not for the numbers, but for the joy of the “aha!” and the thrill of improvement.
+- 🏗️ **Scaled backend** for a beloved app, serving real users and making their days smoother.
+- 🎤 **Workshop Leader:** Shared knowledge with peers—because when one grows, we all rise.
+
+---
+
+## 💖 What Moves Me
+
+- **System Design & Architecture:** Crafting robust foundations, so others can build their dreams.
+- **Dev Tooling & Productivity:** Helping makers move faster, with less friction and more joy.
+- **UX/UI Systems:** Designing with empathy, making every interaction a little brighter.
+- **Open Source Advocacy:** Lifting up the community, giving back more than I take.
+
+---
+
+## 📊 Languages I Love
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasvini2003&layout=compact&theme=tokyonight" alt="Top Languages" width="50%" />
 </p>
 
-<hr>
+---
 
-<h2 style="font-size:1.8em; color: #16A085;">🧠 About Me</h2>
-<ul style="font-size:1.1em; line-height: 1.8; color: #2C3E50;">
-  <li>🚀 Passionate full-stack developer with a strong foundation in scalable web technologies and cloud architecture.</li>
-  <li>🧩 Adept at solving complex algorithmic challenges and building efficient, clean, and maintainable codebases.</li>
-  <li>💡 Driven by curiosity and innovation — always exploring new technologies and best practices in software engineering.</li>
-  <li>🌍 Active contributor to open-source projects with a focus on JavaScript, Python, and low-level systems programming in C/C++.</li>
-  <li>🛠️ Proficient in agile development methodologies, CI/CD pipelines, RESTful API design, and DevOps workflows.</li>
-  <li>🧪 Deep interest in system design, backend optimization, distributed systems, and developer tooling.</li>
-  <li>🤝 Collaborative by nature; thrive in cross-functional teams and value clear communication, mentorship, and continuous learning.</li>
-  <li>🎯 Currently focused on building high-performance applications and contributing to impactful, user-centric software projects.</li>
-</ul>
+## 🌈 Connect with Me
 
-<h2 style="font-size:1.8em; color: #16A085;">⚙️ Tech Stack</h2>
-<p style="font-size:1.1em; line-height: 2;">
-  <strong>Languages:</strong> JavaScript (ES6+), TypeScript, Python, C, C++, Bash, SQL<br>
-  <strong>Frontend:</strong> React.js, Next.js, HTML5, CSS3, TailwindCSS, Sass<br>
-  <strong>Backend:</strong> Node.js, Express.js, MongoDB, PostgreSQL, MySQL<br>
-  <strong>DevOps & Cloud:</strong> Docker, GitHub Actions, Heroku, Vercel, AWS (EC2, S3), Cloudflare<br>
-  <strong>Tools & Platforms:</strong> Git, VS Code, Postman, Figma, FigJam, Jira, Notion<br>
-  <strong>Testing & Quality:</strong> Jest, Mocha, ESLint, Prettier<br>
-  <strong>Deployment & CI/CD:</strong> Netlify, Vercel, GitHub Pages, Jenkins (basic), Render
+<p align="center">
+  <a href="mailto:yashasvinibhanuraj29@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF6F00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF8E53" alt="Gmail Badge"/>
+  </a>
+  <a href="https://github.com/yashasvini2003">
+    <img src="https://img.shields.io/badge/GitHub-272935?style=for-the-badge&logo=github&logoColor=F7B42C&labelColor=8E54E9" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yashasvini-bhanuraj-0a7a13202">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=43e97b" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-43cea2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=185a9d" alt="Website Badge"/>
+  </a>
 </p>
 
-<h2 style="font-size:1.8em; color: #16A085;">📂 Projects & Contributions</h2>
-<ul style="font-size:1.1em; line-height: 1.8; color: #2C3E50;">
-  <li>🔧 <strong>Full-Stack Web Applications</strong>: Developed feature-rich web platforms using MERN stack with REST APIs and responsive UI.</li>
-  <li>🛠 <strong>CLI Tools</strong>: Built custom automation tools and command-line applications for developer productivity in Python and Bash.</li>
-  <li>📦 <strong>Open Source Contributor</strong>: Contributed to repositories involving UI components, bug fixes, and documentation enhancements.</li>
-  <li>📈 <strong>Performance Tuning</strong>: Improved page load times and API response by implementing caching strategies and database indexing.</li>
-  <li>🌐 <strong>Deployment</strong>: Experience in automated deployments and version control workflows using Git, GitHub, and CI/CD pipelines.</li>
-</ul>
+---
 
-<h2 style="font-size:1.8em; color: #16A085;">🏆 Highlights</h2>
-<ul style="font-size:1.1em; line-height: 1.8; color: #2C3E50;">
-  <li>🎖️ Dean's List - Academic Excellence in Software Development</li>
-  <li>💻 1000+ problems solved across platforms like LeetCode, HackerRank, and Codeforces</li>
-  <li>🏗️ Built scalable backend for a task management app used by 100+ users/month</li>
-  <li>📚 Presented workshops on Git, API integration, and debugging techniques at college developer clubs</li>
-</ul>
+## ✨ A Thought I Live By
 
-<h2 style="font-size:1.8em; color: #16A085;">💬 Interests</h2>
-<ul style="font-size:1.1em; line-height: 1.8; color: #2C3E50;">
-  <li>🧠 System Design & Architecture</li>
-  <li>🧪 Dev Tooling & Productivity Engineering</li>
-  <li>🎨 UX/UI Design Systems</li>
-  <li>🌐 Web Performance & Accessibility</li>
-  <li>📈 Developer Experience (DX) and Open Source Advocacy</li>
-</ul>
+> "The best way to predict the future is to invent it."  
+> <sub><sup>— Alan Kay</sup></sub>
 
-<h2 style="font-size:1.8em; color: #16A085;">📊 GitHub Stats</h2>
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasvini2003" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasvini2003&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-  <br>
-  <a href="https://github-readme-stats.vercel.app/api?username=yashasvini2003&show_icons=true&theme=radical">
-    <img src="https://github-readme-stats.vercel.app/api?username=yashasvini2003&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </a>
-</div>
+---
 
-<h2 style="font-size:1.8em; color: #16A085;">🌐 Connect with Me</h2>
-<div style="font-size:1.2em; line-height: 1.8;">
-  <a href="https://yashasvini-bhanuraj.netlify.app/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=google-chrome" alt="Website" />
-  </a>
-  <a href="mailto:yashasvinibhanuraj29@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-DAA520?style=for-the-badge&logo=gmail" alt="Gmail" />
-  </a>
-  <a href="https://github.com/yashasvini2003" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-111010?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/yashasvini-bhanuraj-0a7a13202/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</div>
+<p align="center">
+  <em>
+    "Software is a canvas of possibility.  
+    Every line of code is a chance to brighten someone’s world.  
+    Let’s build with skill, kindness, and hope."
+  </em>
+</p>
